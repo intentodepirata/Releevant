@@ -1,0 +1,22 @@
+.contenedor {
+
+    display: flex;
+    
+    justify-content:space-around;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,24,121,0.5382528011204482) 41%, rgba(0,212,255,1) 100%);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+h1, h2 ,h3,p{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: rgb(24, 171, 159);
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,24,121,0.5382528011204482) 41%, rgba(0,212,255,1) 100%);
+}
+
